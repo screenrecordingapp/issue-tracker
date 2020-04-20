@@ -1,1 +1,3 @@
-# Screen Recording App Issue Tracker
+<p align="center">
+![](images/banner.png)
+</p>
