@@ -23,10 +23,11 @@ A clear and concise description of what you expected to happen.
 **Screenshots / Videos**
 If applicable, add screenshots or videos to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Environment (please complete the following information):**
+ - OS: [e.g. iOS, Windows 10]
+ - Browser [e.g. chrome, edge]
+ - Browser Version [e.g. 22]
+ - Screen Recording App Version [e.g. 1.0.0]
 
 **Additional context**
 Add any other context about the problem here.
